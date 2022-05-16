@@ -1,0 +1,11 @@
+.slider-box {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.play-button {
+    margin-top: 80px;
+    
+}

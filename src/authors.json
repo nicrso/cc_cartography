@@ -1,0 +1,532 @@
+﻿[
+    {
+        "Name": "Plato",
+        "TimeBorn": "-428",
+        "TimeDied": "-348",
+        "LocBorn": "Athens, Greece",
+        "CoordsBorn": ["23.727539", "37.98381"],
+        "LocDied": "Athens, Greece",
+        "CoordsDied": ["23.227539", "37.98381"],
+        "Required": true
+    },
+    {
+        "Name": "Aristotle",
+        "TimeBorn": "-384",
+        "TimeDied": "-322",
+        "LocBorn": "Macedonia, Greece",
+        "CoordsBorn": ["22.8527", "40.8177"],
+        "LocDied": "Eubonia, Greece",
+        "CoordsDied": ["23.8585","38.5236"],
+        "Required": true
+    },
+    {
+        "Name": "Augustine",
+        "TimeBorn": "354",
+        "TimeDied": "430",
+        "LocBorn": "Algeria",
+        "CoordsBorn": ["5.9596", "36.339"],
+        "LocDied": "Algeria",
+        "CoordsDied":  ["5.9596", "36.339"],
+        "Required": true
+    },
+    {
+        "Name": "Aquinas",
+        "TimeBorn": "1225",
+        "TimeDied": "1274",
+        "LocBorn": "Roccasecca, Italy",
+        "CoordsBorn": ["13.6704", "41.5527"],
+        "LocDied": "Fossanova, Italy",
+        "CoordsDied": ["13.1967", "41.44"],
+        "Required": true
+    },
+    {
+        "Name": "Tufail",
+        "TimeBorn": "1105",
+        "TimeDied": "1185",
+        "LocBorn": "Andalusia, Spain",
+        "CoordsBorn": ["-4.7278", "37.5443"],
+        "LocDied": "Marrakesh, Morroco",
+        "CoordsDied": ["-7.9811", "31.6295"],
+        "Required": true
+    },
+    {
+        "Name": "Al-Farabi",
+        "TimeBorn": "870",
+        "TimeDied": "950",
+        "LocBorn": "Faryab, Afganistan",
+        "CoordsBorn": ["64.9060", "36.0796"],
+        "LocDied": "Damascus, Syria",
+        "CoordsDied": ["36.2765", "33.5138"],
+        "Required": true
+    },
+    {
+        "Name": "Rushd",
+        "TimeBorn": "1126",
+        "TimeDied": "1198",
+        "LocBorn": "Córdoba, Spain",
+        "CoordsBorn": ["-4.7794", "37.8882"],
+        "LocDied": "Marrakesh, Morroco",
+        "CoordsDied": ["-7.9811", "31.6295"],
+        "Required": true
+    },
+    {
+        "Name": "Al-Ghazali",
+        "TimeBorn": "1058",
+        "TimeDied": "1111",
+        "LocBorn": "Tous, Iran",
+        "CoordsBorn": ["59.5095", "36.4798"],
+        "LocDied": "Tous, Iran",
+        "CoordsDied": ["59.5095", "36.4798"],
+        "Required": false
+    },
+    {
+        "Name": "Maimonides",
+        "TimeBorn": "1138",
+        "TimeDied": "1204",
+        "LocBorn": "Córdoba, Spain",
+        "CoordsBorn": ["-4.7794", "37.8882"],
+        "LocDied": "Fustat, Egypt",
+        "CoordsDied": ["31.2333", "30.0000"],
+        "Required": false
+    },
+    {
+        "Name": "De Pizan",
+        "TimeBorn": "1364",
+        "TimeDied": "1430",
+        "LocBorn": "Venice, Italy",
+        "CoordsBorn": ["12.3155", "45.4408"],
+        "LocDied": "Venice, Italy",
+        "CoordsDied": ["12.3155", "45.4408"],
+        "Required": true
+    },
+    {
+        "Name": "Machiavelli",
+        "TimeBorn": "1469",
+        "TimeDied": "1527",
+        "LocBorn": "Florence, Italy",
+        "CoordsBorn": ["11.2558", "43.7696"],
+        "LocDied": "Florence, Italy",
+        "CoordsDied": ["11.2558", "43.7696"],
+        "Required": true
+    },
+    {
+        "Name": "Luther",
+        "TimeBorn": "1483",
+        "TimeDied": "1546",
+        "LocBorn": "Eisleben, Germany",
+        "CoordsBorn": ["11.5577", "51.5195"],
+        "LocDied": "Eisleben, Germany",
+        "CoordsDied": ["11.5577", "51.5195"],
+        "Required": true
+    },
+    {
+        "Name": "Descartes",
+        "TimeBorn": "1596",
+        "TimeDied": "1650",
+        "LocBorn": "Tourance, France",
+        "CoordsBorn": ["0.6987", "46.9735"],
+        "LocDied": "Stockholm, Sweden ",
+        "CoordsDied": ["18.0686", "59.3293"],
+        "Required": true
+    },
+    {
+        "Name": "Hobbes",
+        "TimeBorn": "1588",
+        "TimeDied": "1679",
+        "LocBorn": "Wiltshire, England",
+        "CoordsBorn": ["-2.1195", "51.4615"],
+        "LocDied": "Derbyshire, England",
+        "CoordsDied": ["-1.5624", "53.1047"],
+        "Required": true
+    },
+    {
+        "Name": "Locke",
+        "TimeBorn": "1632",
+        "TimeDied": "1704",
+        "LocBorn": "Somerset, England",
+        "CoordsBorn": ["-2.9262", "51.1051"],
+        "LocDied": "Essex, England",
+        "CoordsDied": ["-0.4857", "51.5742"],
+        "Required": true
+    },
+    {
+        "Name": "Rousseau",
+        "TimeBorn": "1753",
+        "TimeDied": "1778",
+        "LocBorn": "Geneva, Switzerland",
+        "CoordsBorn": ["6.1432", "46.2044"],
+        "LocDied": "Oise, France",
+        "CoordsDied": ["2.4146", "49.4215"],
+        "Required": true
+    },
+    {
+        "Name": "Ambedkar",
+        "TimeBorn": "1952",
+        "TimeDied": "1956",
+        "LocBorn": "Madhya Pradesh, India",
+        "CoordsBorn": ["78.6569", "22.9734"],
+        "LocDied": "New Delhi, India",
+        "CoordsDied": ["77.209", "28.6139"],
+        "Required": true
+    },
+    {
+        "Name": "Columbus",
+        "TimeBorn": "1451",
+        "TimeDied": "1506",
+        "LocBorn": "Genoa, Italy",
+        "CoordsBorn": ["8.9463", "44.4056"],
+        "LocDied": "Valladolid, Spain",
+        "CoordsDied": ["-4.7245", "41.6523"],
+        "Required": true
+    },
+    {
+        "Name": "Vitoria",
+        "TimeBorn": "1483",
+        "TimeDied": "1546",
+        "LocBorn": "Burgos, Spain",
+        "CoordsBorn": ["-3.6894", "42.3505"],
+        "LocDied": "Salamanca, Spain",
+        "CoordsDied": ["-5.6635", "40.9701"],
+        "Required": true
+    },
+    {
+        "Name": "Leon-Portilla",
+        "TimeBorn": "1926",
+        "TimeDied": "2019",
+        "LocBorn": "Mexico City, Mexico",
+        "CoordsBorn": ["-99.1332", "19.4326"],
+        "LocDied": "Mexico City, Mexico",
+        "CoordsDied": ["-99.1332", "19.4326"],
+        "Required": true
+    },
+    {
+        "Name": "Vega",
+        "TimeBorn": "1498",
+        "TimeDied": "1536",
+        "LocBorn": "Toledo, Spain",
+        "CoordsBorn": ["-4.0273", "39.8628"],
+        "LocDied": "Nice, France",
+        "CoordsDied": ["7.2620", "43.7102"],
+        "Required": true
+    },
+    {
+        "Name": "Ayala",
+        "TimeBorn": "1534",
+        "TimeDied": "1615",
+        "LocBorn": "Ayacucho, Peru",
+        "CoordsBorn": ["-74.2236", "-13.1639"],
+        "LocDied": "Lima, Peru",
+        "CoordsDied": ["-77.0428", "-12.0464"],
+        "Required": false
+    },
+    {
+        "Name": "Arendt",
+        "TimeBorn": "1906",
+        "TimeDied": "1975",
+        "LocBorn": "Hanover, Germany",
+        "CoordsBorn": ["9.732", "52.3759"],
+        "LocDied": "Manhattan, United States",
+        "CoordsDied": ["-73.9712", "40.7831"],
+        "Required": true
+    },
+    {
+        "Name": "Du Bois",
+        "TimeBorn": "1868",
+        "TimeDied": "1963",
+        "LocBorn": "Massachusets, United States",
+        "CoordsBorn": ["-71.3824", "42.4072"],
+        "LocDied": "Accra, Ghana",
+        "CoordsDied": ["0.187", "5.6037"],
+        "Required": true
+    },
+    {
+        "Name": "Fanon",
+        "TimeBorn": "1925",
+        "TimeDied": "1961",
+        "LocBorn": "Martinique, France",
+        "CoordsBorn": ["-61.0242", "14.6415"],
+        "LocDied": "Maryland, United States",
+        "CoordsDied": [ "-76.6413", "39.0458"],
+        "Required": true
+    },
+    {
+        "Name": "Foucault",
+        "TimeBorn": "1926",
+        "TimeDied": "1984",
+        "LocBorn": "Poiters, France",
+        "CoordsBorn": ["-0.3404", "46.5802"],
+        "LocDied": "Paris, France",
+        "CoordsDied": ["2.3522", "48.8566"],
+        "Required": true
+    },
+    {
+        "Name": "Freud",
+        "TimeBorn": "1856",
+        "TimeDied": "1939",
+        "LocBorn": "Pribor, Czech Republic",
+        "CoordsBorn": ["18.145", "49.6409"],
+        "LocDied": "London, England",
+        "CoordsDied": ["0.1276", "51.5072"],
+        "Required": false
+    },
+    {
+        "Name": "Hegel",
+        "TimeBorn": "1770",
+        "TimeDied": "1831",
+        "LocBorn": "Stuttgart, Germany",
+        "CoordsBorn": ["9.1829", "48.7758"],
+        "LocDied": "Berlin, Germany",
+        "CoordsDied": ["13.405", "52.52"],
+        "Required": false
+    },
+    {
+        "Name": "Kant",
+        "TimeBorn": "1724",
+        "TimeDied": "1804",
+        "LocBorn": "Kaliningrad, Russia",
+        "CoordsBorn": ["20.4522", "54.7104"],
+        "LocDied": "Kaliningrad, Russia",
+        "CoordsDied": ["20.4522", "54.7104"],
+        "Required": true
+    },
+    {
+        "Name": "Marx",
+        "TimeBorn": "1818",
+        "TimeDied": "1883",
+        "LocBorn": "Trier, Germany",
+        "CoordsBorn": ["6.6371", "49.75"],
+        "LocDied": "London, England",
+        "CoordsDied": ["0.1276", "51.5072"],
+        "Required": true
+    },
+    {
+        "Name": "Mill",
+        "TimeBorn": "1806",
+        "TimeDied": "1873",
+        "LocBorn": "London, England",
+        "CoordsBorn":  ["0.1276", "51.5072"],
+        "LocDied": "Avigon, France",
+        "CoordsDied": ["4.8055", "43.9493"],
+        "Required": true
+    },
+    {
+        "Name": "Nietzsche",
+        "TimeBorn": "1844",
+        "TimeDied": "1900",
+        "LocBorn": "Rocken, Germany",
+        "CoordsBorn": ["12.1165", "51.2415"],
+        "LocDied": "Weimar, Germany",
+        "CoordsDied": [ "11.3235", "50.9795"],
+        "Required": true
+    },
+    {
+        "Name": "Smith",
+        "TimeBorn": "1723",
+        "TimeDied": "1790",
+        "LocBorn": "Kirkcaldy, England",
+        "CoordsBorn": ["-3.158137", "56.116825"],
+        "LocDied": "Edinburgh, Scotland",
+        "CoordsDied": ["-3.1883", "55.9533"],
+        "Required": true
+    },
+    {
+        "Name": "Tocqueville",
+        "TimeBorn": "1805",
+        "TimeDied": "1859",
+        "LocBorn": "Paris, France",
+        "CoordsBorn": ["2.3522", "48.8566"],
+        "LocDied": "Cannes, France",
+        "CoordsDied": ["7.0174", "43.5528"],
+        "Required": true
+    },
+    {
+        "Name": "Wollstonecraft",
+        "TimeBorn": "1759",
+        "TimeDied": "1797",
+        "LocBorn": "London, England",
+        "CoordsBorn": ["0.1276", "51.5072"],
+        "LocDied": "London, England",
+        "CoordsDied": ["0.1276", "51.5072"],
+        "Required": true
+    },
+    {
+        "Name": "Bentham",
+        "TimeBorn": "1748",
+        "TimeDied": "1832",
+        "LocBorn": "London, England",
+        "CoordsBorn": ["0.1276", "51.5072"],
+        "LocDied": "London, England",
+        "CoordsDied": ["0.1276", "51.5072"],
+        "Required": true
+    },
+    {
+        "Name": "Paine",
+        "TimeBorn": "1737",
+        "TimeDied": "1809",
+        "LocBorn": "Thetford, England",
+        "CoordsBorn": ["0.7517", "52.4129"],
+        "LocDied": "New York, United States",
+        "CoordsDied": ["-73.9712", "40.7831"],
+        "Required": true
+    },
+    {
+        "Name": "Louverture",
+        "TimeBorn": "1743",
+        "TimeDied": "1803",
+        "LocBorn": "Cap-Haitien, Haiti",
+        "CoordsBorn": ["-72.2068", "19.7370"],
+        "LocDied": "Fort de Joux, France",
+        "CoordsDied": ["6.3743", "46.8724"],
+        "Required": true
+    },
+    {
+        "Name": "de Gouges",
+        "TimeBorn": "1748",
+        "TimeDied": "1793",
+        "LocBorn": "Montauban, France",
+        "CoordsBorn": ["1.3530", "44.0221"],
+        "LocDied": "Paris, France",
+        "CoordsDied": ["2.3522", "48.8566"],
+        "Required": true
+    },
+    {
+        "Name": "Sieyes",
+        "TimeBorn": "1748",
+        "TimeDied": "1836",
+        "LocBorn": "Frejus, France",
+        "CoordsBorn": ["6.7370", "43.4332"],
+        "LocDied": "Paris, France",
+        "CoordsDied": ["2.3522", "48.8566"],
+        "Required": true
+    },
+    {
+        "Name": "Burke",
+        "TimeBorn": "1729",
+        "TimeDied": "1797",
+        "LocBorn": "Dublin, Ireland",
+        "CoordsBorn": ["-6.2603", "53.3498"],
+        "LocDied": "Buckinghamshire, England",
+        "CoordsDied": ["-0.8128", "51.8072"],
+        "Required": false
+    },
+    {
+        "Name": "Walker",
+        "TimeBorn": "1796",
+        "TimeDied": "1830",
+        "LocBorn": "North Carolina, United States",
+        "CoordsBorn": ["-77.8868", "34.2104"],
+        "LocDied": "Boston, United States",
+        "CoordsDied": ["-71.0589", "42.3601"],
+        "Required": true
+    },
+    {
+        "Name": "Douglass",
+        "TimeBorn": "1818",
+        "TimeDied": "1895",
+        "LocBorn": "Maryland, United States",
+        "CoordsBorn": [ "-76.6413", "39.0458"],
+        "LocDied": "Washington DC, United States",
+        "CoordsDied": ["-77.0369", "38.9072"],
+        "Required": true
+    },
+    {
+        "Name": "Truth",
+        "TimeBorn": "1797",
+        "TimeDied": "1883",
+        "LocBorn": "Rifton, United States",
+        "CoordsBorn": [ "-74.0374", "41.8376"],
+        "LocDied": "Battle Creek, United States",
+        "CoordsDied": ["-85.1797", "42.3212"],
+        "Required": true
+    },
+    {
+        "Name": "Mills",
+        "TimeBorn": "1951",
+        "TimeDied": "2021",
+        "LocBorn": "London, England",
+        "CoordsBorn": ["0.1276", "51.5072"],
+        "LocDied": "Evanston, United States",
+        "CoordsDied": ["-87.6877", "42.0451"],
+        "Required": false
+    },
+    {
+        "Name": "Darwin",
+        "TimeBorn": "1809",
+        "TimeDied": "1882",
+        "LocBorn": "Shrewsbury, England",
+        "CoordsBorn": ["-2.7553", "52.7073"],
+        "LocDied": "London, England",
+        "CoordsDied": ["0.1276", "51.5072"],
+        "Required": true
+    },
+    {
+        "Name": "Gandhi",
+        "TimeBorn": "1869",
+        "TimeDied": "1948",
+        "LocBorn": "Porbandar, India",
+        "CoordsBorn": ["69.6293", "21.6417"],
+        "LocDied": "New Delhi, India",
+        "CoordsDied": ["77.209", "28.6139"],
+        "Required": true
+    },
+    {
+        "Name": "Fields",
+        "TimeBorn": "1947",
+        "TimeDied": "2022",
+        "LocBorn": "Charleston, United States",
+        "CoordsBorn": ["-79.933333", "32.783333"],
+        "LocDied": "Manhattan, United States",
+        "CoordsDied": ["-73.9712", "40.7831"],
+        "Required": true
+    },
+    {
+        "Name": "Hartman",
+        "TimeBorn": "1960",
+        "TimeDied": "2022",
+        "LocBorn": "Brooklyn, United States",
+        "CoordsBorn": ["-73.9712", "40.7831"],
+        "LocDied": "Manhattan, United States",
+        "CoordsDied": ["-73.9712", "40.7831"],
+        "Required": true
+    },
+    {
+        "Name": "Spillers",
+        "TimeBorn": "1942",
+        "TimeDied": "2022",
+        "LocBorn": "Memphis, United States",
+        "CoordsBorn": ["-90.0490", "35.1495"],
+        "LocDied": "Nashville, United States",
+        "CoordsDied": ["-86.8027", "36.1447"],
+        "Required": false
+    },
+    {
+        "Name": "Wynter",
+        "TimeBorn": "1928",
+        "TimeDied": "2022",
+        "LocBorn": "Holguin, Cuba",
+        "CoordsBorn": ["-76.259167", "20.886944"],
+        "LocDied": "Palo Alto, United States",
+        "CoordsDied": ["-122.1697", "37.4275"],
+        "Required": false
+    },
+    {
+        "Name": "Chakrabarty",
+        "TimeBorn": "1948",
+        "TimeDied": "2022",
+        "LocBorn": "Kolkata, India",
+        "CoordsBorn": ["88.37", "22.5675"],
+        "LocDied": "Chicago, United States",
+        "CoordsDied": ["-87.6298", "41.8781"],
+        "Required": true
+    },
+    {
+        "Name": "Carson",
+        "TimeBorn": "1907",
+        "TimeDied": "1964",
+        "LocBorn": "Pennslyvania, United States",
+        "CoordsBorn": ["-77.1945", "41.2033"],
+        "LocDied": "Maryland, United States",
+        "CoordsDied": [ "-76.6413", "39.0458"],
+        "Required": false
+    }
+]
